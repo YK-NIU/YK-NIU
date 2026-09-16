@@ -22,6 +22,7 @@
 ## 我做的工具 · What I build
 
 **8 款 Windows 应用，全部通过微软商店分发，全部在本机处理数据。**
+*8 apps, all distributed via the Microsoft Store, all processing data on your machine.*
 
 | 产品 | 说明 |
 | --- | --- |
@@ -41,6 +42,7 @@
 ## 公开的仓库 · Public repositories
 
 产品代码不开源。公开的是让智能体（WorkBuddy / OpenClaw 等）读取本机数据的 Skill，以及几个通用适配层：
+*App code is not open source. What's public: agent Skills that read your local data, plus a few general-purpose adapters.*
 
 - 金蝶云星空：数据导出 / 经营分析 / 费用报销全流程
 - 发票助手、财报助手的本机接口客户端（只读）
