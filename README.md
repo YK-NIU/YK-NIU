@@ -2,7 +2,7 @@
   <img src="./logo.png" width="132" alt="小河狸工作室 LittleBeaver Studio">
 </p>
 
-<h1 align="center">YK · YK-NIU</h1>
+<h1 align="center">YK</h1>
 
 <p align="center">
   <b>独立开发者 · 小河狸工作室主理人</b><br>
