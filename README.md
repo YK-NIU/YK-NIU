@@ -1,4 +1,8 @@
-<h1 align="center">🦫 YK · YK-NIU</h1>
+<p align="center">
+  <img src="./logo.png" width="132" alt="小河狸工作室 LittleBeaver Studio">
+</p>
+
+<h1 align="center">YK · YK-NIU</h1>
 
 <p align="center">
   <b>独立开发者 · 小河狸工作室主理人</b><br>
@@ -20,7 +24,7 @@
 
 ---
 
-## 📦 我做的工具 · What I build
+## 我做的工具 · What I build
 
 **8 款 Windows 应用，全部通过微软商店分发，全部在本机处理数据。**
 *8 apps, all distributed via the Microsoft Store, all processing data on your machine.*
@@ -48,7 +52,7 @@
 
 ---
 
-## 🧩 公开的仓库 · Public repositories
+## 公开的仓库 · Public repositories
 
 产品代码不开源。公开的是**让智能体读取本机数据**的 Skill，以及几个通用适配层：
 
@@ -58,11 +62,11 @@
 - 发票助手、财报助手的本机接口客户端（只读）
 - agnes-media（AI 媒体模型适配层，MIT）、awesome-dsh-plugin（CC0）
 
-👉 **仓库与许可说明都在组织主页：[github.com/LittleBeaverStudio](https://github.com/LittleBeaverStudio)**
+**仓库与许可说明都在组织主页：[github.com/LittleBeaverStudio](https://github.com/LittleBeaverStudio)**
 
 ---
 
-## 📮 联系 · Contact
+## 联系 · Contact
 
 | | |
 | --- | --- |
