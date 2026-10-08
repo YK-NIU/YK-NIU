@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://littlebeaver.top"><img alt="Website" src="https://img.shields.io/badge/littlebeaver.top-官网-2ea44f?logo=googlechrome&logoColor=white"></a>
-  <a href="https://apps.microsoft.com/search/publisher?name=%E5%B0%8F%E6%B2%B3%E7%8B%B8%E5%B7%A5%E4%BD%9C%E5%AE%A4"><img alt="Microsoft Store" src="https://img.shields.io/badge/Microsoft_Store-8_apps-0078D4?logo=microsoft&logoColor=white"></a>
+  <a href="https://apps.microsoft.com/search/publisher?name=%E5%B0%8F%E6%B2%B3%E7%8B%B8%E5%B7%A5%E4%BD%9C%E5%AE%A4"><img alt="Microsoft Store" src="https://img.shields.io/badge/Microsoft_Store-9_apps-0078D4?logo=microsoft&logoColor=white"></a>
   <img alt="Local-first" src="https://img.shields.io/badge/local--first-no_upload-6f42c1">
 </p>
 
@@ -21,11 +21,12 @@
 
 ## 我做的工具 · What I build
 
-**8 款 Windows 应用，全部通过微软商店分发，全部在本机处理数据。**
-*8 apps, all distributed via the Microsoft Store, all processing data on your machine.*
+**9 款 Windows 应用，全部通过微软商店分发，全部在本机处理数据。**
+*9 apps, all distributed via the Microsoft Store, all processing data on your machine.*
 
 | 产品 | 说明 |
 | --- | --- |
+| **小河狸制片厂**<br>Little Beaver Studio | 把一段剧本变成动画微短剧：分镜排版、多集管理、逐镜重拍、自动审片、一键合成。<br>[商店](https://apps.microsoft.com/detail/9n9kxf70frs3) · [GitHub](https://github.com/YK-NIU/LittleBeaverStudio) |
 | **小河狸发票助手**<br>Invoice Assistant | 电子税务局导出的发票数据，在本机建成台账。<br>[商店](https://apps.microsoft.com/detail/9NKJQPSGF911) · [官网](https://littlebeaver.top/zh/invoice-assistant/) |
 | **小河狸财报助手**<br>Financial Report Assistant | 从你自己的报表算出比率、结构、趋势和杜邦分析。<br>[商店](https://apps.microsoft.com/detail/9PG13VD7JTGC) · [官网](https://littlebeaver.top/zh/financial-report-assistant/) |
 | **科目余额分析器**<br>Trial Balance Analyzer | 几分钟内把科目余额表的方向异常和漏记扫一遍。<br>[商店](https://apps.microsoft.com/detail/9NWV1GMRM7MR) · [官网](https://littlebeaver.top/zh/trial-balance-analyzer/) |
@@ -36,19 +37,6 @@
 | **小河狸计划**<br>Planner | 一个能直接打开任务对应文件或网页的任务清单。<br>[商店](https://apps.microsoft.com/detail/9MX4D3ZCRPLT) · [官网](https://littlebeaver.top/planner/) |
 
 > 全部应用：不注册账号 · 不上传文件 · 无订阅墙 ｜ *No account · No upload · No subscription wall*
-
----
-
-## 正在做的 · In the works
-
-**小河狸制片厂（Little Beaver Studio）** — 把一段剧本变成成片的 AI 视频制片工具。
-本地优先：剧本、角色、素材、成片都在你自己的机器上。
-
-> 提交 → 生成 → 审片 → 合成，全流程可控。角色一致性由「外观描述 + 参考图 + 定妆截帧」共同约束，
-> 对白走原生生成（口型与语音由视频模型直接同步），再用 faster-whisper 听写 + 拼音相似度辅助选片。
-> 画面之外的事——钱花在哪、哪一镜要重拍——都摊在台面上。
-
-*Turn a script into a finished film. Script, characters, assets and output all stay on your machine.*
 
 ---
 
