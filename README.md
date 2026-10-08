@@ -26,7 +26,7 @@
 
 | 产品 | 说明 |
 | --- | --- |
-| **小河狸制片厂**<br>Little Beaver Studio | 把一段剧本变成动画微短剧：分镜排版、多集管理、逐镜重拍、自动审片、一键合成。<br>[商店](https://apps.microsoft.com/detail/9n9kxf70frs3) · [GitHub](https://github.com/YK-NIU/LittleBeaverStudio) |
+| **小河狸制片厂**<br>Little Beaver Studio | 把一段剧本变成动画微短剧：分镜排版、多集管理、逐镜重拍、自动审片、一键合成。<br>[商店](https://apps.microsoft.com/detail/9n9kxf70frs3) · [官网](https://littlebeaver.top/) |
 | **小河狸发票助手**<br>Invoice Assistant | 电子税务局导出的发票数据，在本机建成台账。<br>[商店](https://apps.microsoft.com/detail/9NKJQPSGF911) · [官网](https://littlebeaver.top/zh/invoice-assistant/) |
 | **小河狸财报助手**<br>Financial Report Assistant | 从你自己的报表算出比率、结构、趋势和杜邦分析。<br>[商店](https://apps.microsoft.com/detail/9PG13VD7JTGC) · [官网](https://littlebeaver.top/zh/financial-report-assistant/) |
 | **科目余额分析器**<br>Trial Balance Analyzer | 几分钟内把科目余额表的方向异常和漏记扫一遍。<br>[商店](https://apps.microsoft.com/detail/9NWV1GMRM7MR) · [官网](https://littlebeaver.top/zh/trial-balance-analyzer/) |
