@@ -39,16 +39,35 @@
 
 ---
 
+## 正在做的 · In the works
+
+**小河狸制片厂（Little Beaver Studio）** — 把一段剧本变成成片的 AI 视频制片工具。
+本地优先：剧本、角色、素材、成片都在你自己的机器上。
+
+> 提交 → 生成 → 审片 → 合成，全流程可控。角色一致性由「外观描述 + 参考图 + 定妆截帧」共同约束，
+> 对白走原生生成（口型与语音由视频模型直接同步），再用 faster-whisper 听写 + 拼音相似度辅助选片。
+> 画面之外的事——钱花在哪、哪一镜要重拍——都摊在台面上。
+
+*Turn a script into a finished film. Script, characters, assets and output all stay on your machine.*
+
+---
+
 ## 公开的仓库 · Public repositories
 
-产品代码不开源。公开的是让智能体（WorkBuddy / OpenClaw 等）读取本机数据的 Skill，以及几个通用适配层：
-*App code is not open source. What's public: agent Skills that read your local data, plus a few general-purpose adapters.*
+**产品代码不开源。** 公开的是让智能体（WorkBuddy / OpenClaw 等）读取本机数据的 Skill，
+以及几个通用适配层：*App code is not open source. What's public: agent Skills that read your local data, plus a few general-purpose adapters.*
 
-- 金蝶云星空：数据导出 / 经营分析 / 费用报销全流程
-- 发票助手、财报助手的本机接口客户端（只读）
-- agnes-media（AI 媒体适配层，MIT）、awesome-dsh-plugin（CC0）
+| 仓库 | 说明 |
+| --- | --- |
+| [KingdeeDataExporter](https://github.com/LittleBeaverStudio/KingdeeDataExporter) | 金蝶云星空多表单据 / 报表导出 Skill |
+| [KingdeeDataAnalyzer](https://github.com/LittleBeaverStudio/KingdeeDataAnalyzer) | 金蝶经营数据分析 → Excel / HTML 报表 |
+| [KingdeeExpenseFlow](https://github.com/LittleBeaverStudio/KingdeeExpenseFlow) | 金蝶费用 / 差旅报销全流程提交 |
+| [InvoiceAssistant](https://github.com/LittleBeaverStudio/InvoiceAssistant) | 发票助手的本机接口客户端（只读） |
+| [FinancialAssistant](https://github.com/LittleBeaverStudio/FinancialAssistant) | 财报助手的本机接口客户端（只读） |
+| [agnes-media](https://github.com/LittleBeaverStudio/agnes-media) | Agnes AI 媒体模型适配层（MIT） |
+| [OpenClawOneClickLauncher](https://github.com/LittleBeaverStudio/OpenClawOneClickLauncher) | OpenClaw 一键安装启动器（MIT） |
 
-**仓库与许可说明都在组织主页：[github.com/LittleBeaverStudio](https://github.com/LittleBeaverStudio)**
+全部仓库与许可说明：[github.com/LittleBeaverStudio](https://github.com/LittleBeaverStudio)
 
 ---
 
